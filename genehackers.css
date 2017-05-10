@@ -1,0 +1,65 @@
+/*font-family: 'Nunito', sans-serif;
+font-family: 'Exo', sans-serif;
+font-family: 'Comfortaa', cursive;
+font-family: 'Permanent Marker', cursive;*/
+/*#5BC0EB   blue
+	FDE74C yellow
+	9BC53D green
+	DD1C1A red*/
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+br{
+	display: block;
+	margin-top: 10px 0;
+}
+
+
+h1{
+	font-family: 'Comfortaa', cursive;
+	text-align: center;
+	color: white;
+	font-size: 150px;
+	padding-top: 150px;
+	line-height: 90%;
+	text-shadow: 2px 2px #DD1C1A;
+}
+h1:hover{
+	text-shadow: 4px 4px #DD1C1A;
+}
+
+
+.top{
+	height: 768px;
+	background-color: #FDE74C ;
+}
+
+.tube{
+	display: inline-block;
+	padding-left: 280px;
+	margin-bottom: 100px;
+
+}
+.plate{
+display: inline-block;
+	height: 200px;
+	width: 200px;
+	padding-left: 60px;
+	padding-bottom: 50px; 
+}
+.dna{
+	display: inline-block;
+	height: 200px;
+	width: 200px;
+	padding-left: 700px;
+	margin-top: -900px;
+	padding-bottom: 220px;
+}
